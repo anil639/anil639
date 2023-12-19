@@ -1,11 +1,11 @@
 <!-- "Hero" Header -->
-<div atyle="text-align-center">
+<div align="center">
   <img src="./images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <br />
 
-<img src="./images/Personal_note.svg" height="50" alt="My Name is Anil and I like MERN" />
+<img  height="50" alt="My Name is Anil and I like MERN" src="./images/Personal_note.svg" />
 
   <br />
   <br />

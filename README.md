@@ -5,7 +5,7 @@
   <br />
   <br />
 
-<img  height="50" alt="My Name is Anil and I like MERN" src="./images/Personal_note.svg" />
+<img  height="50" alt="Hi ! My Name is Anil Kumar Nayak" src="./images/Personal_note.svg" />
 
   <br />
   <br />

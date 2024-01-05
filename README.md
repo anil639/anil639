@@ -17,7 +17,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://anil639.github.io/portfolio/">
+<a target="_blank" href="https://anil639.github.io/portfolio/">
 
 <strong>Visit my Portfolio </strong>
 <br />
@@ -31,7 +31,7 @@
 
 </td>
 <td align="center">
-<a href="https://www.youtube.com/watch?v=Z7yjP-6Uxe8">
+<a target="_blank" href="https://www.youtube.com/watch?v=Z7yjP-6Uxe8">
 <strong>Listen to cool music</strong>
 <br />
 <br />
